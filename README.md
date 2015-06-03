@@ -33,15 +33,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Rspec, Jasmine, Mocha, Caybara, Cucumber
 - Postgres, MongoDB
 
-#### Your University / College (start_date to end_date)
+#### Earl of Scarbrough High School
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- GCSE:
+Biology, Maths, English, Physics, Business Studies, History, Geography, CDT
+
+- A Level:
+Biology, History, Archaeology
 
 #### Any other qualifications
 
-- NVQ Levels I & II - Information Technology
+- NVQ Levels I & II - Business & Information Technology
 
 ## Interests
 
