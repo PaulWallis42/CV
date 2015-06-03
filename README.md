@@ -40,6 +40,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Any other qualifications
 
+## Interests
+
+- Climbing
+- Golf
+- Badminton
+- Softball
+- Hiking
+- Travel
+
 ## Experience
 
 - Metropolitan Police Service (Jun 2005 - Feb 2015)
