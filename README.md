@@ -27,10 +27,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, SOLID, MVC
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, Node.js, Angular.js, Sinatra
+- Rspec, Jasmine, Mocha, Caybara, Cucumber
+- Postgres, MongoDB
 
 #### Your University / College (start_date to end_date)
 
