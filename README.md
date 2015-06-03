@@ -41,6 +41,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Any other qualifications
 
+- NVQ Levels I & II - Information Technology
+
 ## Interests
 
 - Climbing
