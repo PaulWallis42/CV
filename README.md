@@ -53,7 +53,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Softball
 - Hiking
 - Travel
-- Reading
 
 ## Experience
 
