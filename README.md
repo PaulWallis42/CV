@@ -33,6 +33,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - AJAX, Json
 - Rspec, Jasmine, Mocha, Caybara, Cucumber
 - Postgres, MongoDB
+- 
+
+Technology | Language/Framework/Tool
+-----------|------------------------
+**Front End** | HTML5, CSS, Bootstrap, Javascript, jQuery, Angular.js
+**Back End** | Ruby, Rails, Sinatra, Node.js
+**Databases & ORMs** | PostgreSQL, SQL, ActiveRecord, Data Mapper
+**Testing** | RSpec, Jasmine, Cucumber, Karma, Protractor
+**Other** | APIs, Git/Github, Waffle.io
 
 #### Earl of Scarbrough High School
 
