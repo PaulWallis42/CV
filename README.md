@@ -24,7 +24,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Education
 
 #### Makers Academy (March 2015 - June 2015)
-Makers Academy http://www.makersacademy.com/home is a 12 week coding boot camp with a strong emphasis on developing code through Test Driven Development.  The course taught me the concepts of TDD, OOP, BDD, SOLID, MVC and Agile coding. I was immersed in several different programming languages and technologies a few of which I have outlined below:
+Makers Academy http://www.makersacademy.com/home is a 12 week coding boot camp where the ethos is based on developing code through Test Driven Development.  The course taught me the concepts of TDD, OOP, BDD, SOLID, MVC and Agile coding. I was immersed in several different programming languages and technologies a few of which I have outlined below:
 
 Technology | Language/Framework/Tool
 -----------|------------------------
