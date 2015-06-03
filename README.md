@@ -36,10 +36,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Earl of Scarbrough High School
 
 - GCSE:
-Biology, Maths, English, Physics, Business Studies, History, Geography, CDT
+    - Biology, Maths, English, Physics, Business Studies, History, Geography, CDT
 
 - A Level:
-Biology, History, Archaeology
+    - Biology, History, Archaeology
 
 #### Any other qualifications
 
