@@ -32,7 +32,7 @@ Technology | Language/Framework/Tool
 **Back End** | Ruby, Rails, Sinatra, Node.js
 **Databases & ORMs** | PostgreSQL, MongoDB, SQL, ActiveRecord, Data Mapper
 **Testing** | RSpec, Capybara, Jasmine, Cucumber, Karma, Protractor
-**Other** | APIs, Git/Github, Gems, AJAX, Json
+**Other** | APIs, Git/Github, Gems, AJAX, Json, REST
 
 #### Earl of Scarbrough High School
 
