@@ -25,7 +25,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (March 2015 - June 2015)
 
-**Technology** | Language/Framework/Tool
+Technology | Language/Framework/Tool
 -----------|------------------------
 **Front End** | HTML5, CSS, Bootstrap, Javascript, jQuery, Angular.js
 **Back End** | Ruby, Rails, Sinatra, Node.js
