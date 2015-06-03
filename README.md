@@ -52,7 +52,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
     - Recruitment Officer
 - Lloyds Bank (Mar 1996 - Dec 1996)
     - Bank Teller
-- Licolnshire Police (1994 - 1997)
+- Lincolnshire Police (1994 - 1997)
     - Volunteer Special Constable
 
 
