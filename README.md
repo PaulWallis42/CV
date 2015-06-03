@@ -25,23 +25,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (March 2015 - June 2015)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, BDD, SOLID, MVC
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js, Sinatra
-- AJAX, Json
-- Rspec, Jasmine, Mocha, Caybara, Cucumber
-- Postgres, MongoDB
-- 
-
 Technology | Language/Framework/Tool
 -----------|------------------------
 **Front End** | HTML5, CSS, Bootstrap, Javascript, jQuery, Angular.js
 **Back End** | Ruby, Rails, Sinatra, Node.js
-**Databases & ORMs** | PostgreSQL, SQL, ActiveRecord, Data Mapper
-**Testing** | RSpec, Jasmine, Cucumber, Karma, Protractor
-**Other** | APIs, Git/Github, Waffle.io
+**Databases & ORMs** | PostgreSQL, MongoDB, SQL, ActiveRecord, Data Mapper
+**Testing** | RSpec, Capybara, Jasmine, Cucumber, Karma, Protractor
+**Other** | OOP, TDD, BDD, SOLID, MVC, APIs, Git/Github, Gems, AJAX, Json
 
 #### Earl of Scarbrough High School
 
