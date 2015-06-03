@@ -1,6 +1,7 @@
 ## Paul Wallis
 
-Short description of me....
+I am an enthusiastic and energetic individual who recently decided to make a BIG career change and become a coder.
+Having spoken to a friend and peronsally done some online research I decided that coding was a field that I would like to get involved with due to it being challenging, forever evolving and is a field full of opportunities.
 
 ## Skills
 
