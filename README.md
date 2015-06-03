@@ -42,7 +42,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+Metropolitan Police (Jun 2005 - Feb 2015)    
+Police Constable
+Financial Conduct Authority (Apr 2004 - May 2005)   
+Administrator
+Ski Total (Nov 2003 - Mar 2004)
+Resort Rep
+Ernst & Young (Mar 1997 - Oct 2003)
+Recruitment Officer
+Lloyds Bank (Mar 1996 - Dec 1996)
+Bank Teller
+Licolnshire Police (1994 - 1997)
+Volunteer Special Constable
