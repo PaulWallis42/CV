@@ -27,7 +27,7 @@ Technology | Language/Framework/Tool
 - [Instagram](https://github.com/PaulWallis42/instagram-challenge)
   The Instagram challenge was an solo project that had to be completed in two days and the aim of the project was to re-create Instagram from scratch.  To create this CRUD application I used Ruby on Rails, Postgres, Active Record CSS and HTML amongst other technologies.
 
-To see other projects/challenges I have created using various different technologies please vist my [Repo Page](https://github.com/PaulWallis42?tab=repositories).
+- To see other projects/challenges I have created using various different technologies please vist my [Repo Page](https://github.com/PaulWallis42?tab=repositories).
 
 
 
