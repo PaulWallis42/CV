@@ -21,7 +21,15 @@ Technology | Language/Framework/Tool
 - [Ignite](https://github.com/PaulWallis42/final_project_2)  
   Ignite was the final project of the course that had to be completed from scratch in two weeks.  I was one in a team of four that developed and deployed [Ignite on Heroku](https://igniteit.herokuapp.com) this fully functioning crowd funding application for social and charitable projects.  The app allows users to find projects based on loaction or type, donate money to them and follow blogs and videos of projects.  Project leaders can upload projects and set a funding target and a target deadline amongst other things.  Technologies used included: Rails, Postgres, Bootstrap, RSpec, Capybara, HTML, CSS, JQuery and several Ruby Gems. 
 
-- [Footy Finder]
+- [Footy Finder](https://github.com/PaulWallis42/footy-finder)
+  Footy Finder was a two day mini project where we had to create a MVP as a team of six people.  The basic concept of the challenge was to build an application that a user who wished to find a game of social football to play can log on to the Footy Finder app and find games locally to them and register to play in them.  
+
+- [Instagram](https://github.com/PaulWallis42/instagram-challenge)
+  The Instagram challenge was an solo project that had to be completed in two days and the aim of the project was to re-create Instagram from scratch.  CRUD
+
+See other projects/challenges at on my [Repo Page](https://github.com/PaulWallis42?tab=repositories)
+
+
 
 #### Earl of Scarbrough High School
 
