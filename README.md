@@ -3,29 +3,10 @@
 I am an enthusiastic and energetic individual who recently decided to make a BIG career change and become a coder.
 Having spoken to a friend and peronsally done some online research I decided that coding was a field that I would like to get involved with due to it being challenging, forever evolving and is a field full of opportunities.
 
-## Skills
-
-#### This Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Education
 
 #### Makers Academy (March 2015 - June 2015)
-Makers Academy http://www.makersacademy.com/home is a 12 week coding boot camp where the ethos is based on developing code through Test Driven Development.  The course taught me the concepts of TDD, OOP, BDD, SOLID, MVC and Agile coding. I was immersed in several different programming languages and technologies a few of which I have outlined below:
+Makers Academy http://www.makersacademy.com/home is a highly selective 12 week full-time course where the ethos is based on developing code through Test Driven Development.  The course taught me the concepts of TDD, OOP, BDD, SOLID, MVC and Agile coding. I was immersed in several different programming languages and technologies a few of which I have outlined below:
 
 Technology | Language/Framework/Tool
 -----------|------------------------
@@ -34,6 +15,11 @@ Technology | Language/Framework/Tool
 **Databases & ORMs** | PostgreSQL, MongoDB, SQL, ActiveRecord, Data Mapper
 **Testing** | RSpec, Capybara, Jasmine, Cucumber, Karma, Protractor
 **Other** | APIs, Git/Github, Gems, AJAX, Json, REST
+
+Projects from my time at Makers Academy
+Angry Kitty	Pizza Poser	Chitter
+Thorougly test-driven Ruby on Rails app developed in two weeks. It helps people to easily organize the financial side of group events without having to worry about collecting money.	Ruby on Rails Instagram clone that is focussed on posting pictures of Pizzas.	Basic Sinatra Twitter clone, frontend developed without using Bootstrap.
+Education
 
 #### Earl of Scarbrough High School
 
