@@ -54,9 +54,9 @@ Technology | Language/Framework/Tool
 
 ## Employment & Experience
 
-- Metropolitan Police Service (Jun 2005 - Feb 2015) 
+- Metropolitan Police Service (Jun 2005 - Feb 2015)   
  Police Officer
-- Financial Conduct Authority (Apr 2004 - May 2005) 
+- Financial Conduct Authority (Apr 2004 - May 2005)   
  Administrator
 - Ski Total (Nov 2003 - Mar 2004)                   
  Resort Rep
