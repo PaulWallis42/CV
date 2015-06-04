@@ -18,7 +18,7 @@ Technology | Language/Framework/Tool
 
 # Projects from my time at Makers Academy
 
-- Ignite : [Ignite](https://github.com/PaulWallis42/final_project_2)  
+- [Ignite](https://github.com/PaulWallis42/final_project_2)  
   This was the final project of the course that had to be completed in two weeks.  I was one in a team of four that   developed this fully functioning charity crowd funding application.
 
 #### Earl of Scarbrough High School
