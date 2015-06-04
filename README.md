@@ -29,7 +29,7 @@ Education
 - A Level:
     - Biology, History, Archaeology
 
-#### Any other qualifications
+#### Other qualifications
 
 - NVQ Levels I & II - Business & Information Technology
 
