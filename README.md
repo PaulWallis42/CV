@@ -19,7 +19,9 @@ Technology | Language/Framework/Tool
 # Projects from my time at Makers Academy
 
 - [Ignite](https://github.com/PaulWallis42/final_project_2)  
-  Ignite was the final project of the course that had to be completed from scratch in two weeks.  I was one in a team of four that developed and deployed [Ignite on Heroku](https://igniteit.herokuapp.com) this fully functioning crowd funding application for social and charitable projects.  Technologies used included: Rails, Postgres, Bootstrap, RSpec, Capybara, HTML, CSS, JQuery and several Ruby Gems. 
+  Ignite was the final project of the course that had to be completed from scratch in two weeks.  I was one in a team of four that developed and deployed [Ignite on Heroku](https://igniteit.herokuapp.com) this fully functioning crowd funding application for social and charitable projects.  The app allows users to find projects based on loaction or type, donate money to them and follow blogs and videos of projects.  Project leaders can upload projects and set a funding target and a target deadline amongst other things.  Technologies used included: Rails, Postgres, Bootstrap, RSpec, Capybara, HTML, CSS, JQuery and several Ruby Gems. 
+
+- [Footy Finder]
 
 #### Earl of Scarbrough High School
 
