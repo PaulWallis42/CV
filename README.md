@@ -16,10 +16,10 @@ Technology | Language/Framework/Tool
 **Testing** | RSpec, Capybara, Jasmine, Cucumber, Karma, Protractor
 **Other** | APIs, Git/Github, Gems, AJAX, Json, REST
 
-Projects from my time at Makers Academy
-Angry Kitty	Pizza Poser	Chitter
-Thorougly test-driven Ruby on Rails app developed in two weeks. It helps people to easily organize the financial side of group events without having to worry about collecting money.	Ruby on Rails Instagram clone that is focussed on posting pictures of Pizzas.	Basic Sinatra Twitter clone, frontend developed without using Bootstrap.
-Education
+# Projects from my time at Makers Academy
+
+- Ignite : https://github.com/PaulWallis42/final_project_2  
+  This was the final project of the course that had to be completed in two weeks.  I was one in a team of four that   developed this fully functioning charity crowd funding application.
 
 #### Earl of Scarbrough High School
 
