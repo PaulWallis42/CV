@@ -25,7 +25,7 @@ Technology | Language/Framework/Tool
   Footy Finder was a two day mini project where we had to create a MVP as a team of six people.  The basic concept of the challenge was to build an application that a user who wished to find a game of social football to play can log on to the Footy Finder app and find games locally to them and register to play in them.  
 
 - [Instagram](https://github.com/PaulWallis42/instagram-challenge)  
-  The Instagram challenge was an solo project that had to be completed in two days and the aim of the project was to re-create Instagram from scratch.  To create this CRUD application I used Ruby on Rails, Postgres, Active Record CSS and HTML amongst other technologies.
+  The Instagram challenge was a solo project that had to be completed in two days and the aim of the project was to re-create Instagram from scratch.  To create this CRUD application I used Ruby on Rails, Postgres, Active Record CSS and HTML amongst other technologies.
 
 - To see other projects/challenges I have created using various different technologies please vist my [Repo Page](https://github.com/PaulWallis42?tab=repositories).
 
