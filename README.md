@@ -6,7 +6,7 @@ Having done some online research and spoken to people within the industry I deci
 ## Education
 
 #### Makers Academy (March 2015 - June 2015)
-Makers Academy http://www.makersacademy.com/home is a highly selective 12 week full-time course where the ethos is based on developing code through Test Driven Development.  The course taught me the concepts of TDD, OOP, BDD, SOLID, MVC and Agile coding. I was immersed in several different programming languages and technologies a few of which I have outlined below:
+Makers Academy http://www.makersacademy.com/home is a highly selective 12 week full-time course where the ethos is based on developing code through Test Driven Development.  The course taught me the concepts of pair programming, TDD, OOP, BDD, SOLID, MVC and Agile coding. I was immersed in several different programming languages and technologies a few of which I have outlined below:
 
 Technology | Language/Framework/Tool
 -----------|------------------------
